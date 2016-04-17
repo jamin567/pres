@@ -35,7 +35,7 @@ SEEC application is consist of 4 parts.
 <div style='text-align: center;'>
     <img src='assets/img/Snap3.jpg' />
 </div>   
-[Student Enrollment Estimation in Colleges App Hosted by shinyapps.io](https://shahid.shinyapps.io/Student_Enrollment_Estimation)  
+[Student Enrollment Estimation in Colleges App Hosted by shinyapps.io](https://kyucho.shinyapps.io/proj/)  
 
 ---
 
