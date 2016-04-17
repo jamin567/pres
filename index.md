@@ -51,19 +51,6 @@ SEEC application is consist of 4 parts.
 <iframe src="assets/img/f1.html", width=100%, height=600></iframe>
 
 ```
-## Warning: running command 'git init' had status 127
-```
-
-```
-## Warning: running command 'git commit --allow-empty -m 'Initial Commit'' had
-## status 127
-```
-
-```
-## Warning: running command 'git checkout -b gh-pages' had status 127
-```
-
-```
 ## Warning: running command 'git add .' had status 127
 ```
 
