@@ -8,9 +8,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
-github:
-     user: jamin567
-     repo: demo
+knit        : slidify::knit2slides
 ---
 
 ## Introduction
@@ -37,7 +35,7 @@ SEEC application is consist of 4 parts.
 <div style='text-align: center;'>
     <img src='assets/img/Snap3.jpg' />
 </div>   
-[Student Enrollment Estimation in Colleges App Hosted by shinyapps.io](https://shahid.shinyapps.io/Student_Enrollment_Estimation)  
+[Student Enrollment Estimation in Colleges App Hosted by shinyapps.io](https://kyucho.shinyapps.io/proj/)  
 
 ---
 
